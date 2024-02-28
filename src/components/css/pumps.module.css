@@ -1,0 +1,45 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
+
+.topLine {
+  font-weight: 600;
+}
+
+.pumps {
+  width: 100%;
+  max-width: 800px;
+}
+
+.variety {
+  margin-top: 0.5rem;
+  font-weight: 500;
+}
+
+.container > hr {
+  width: 100%;
+  border: none;
+  height: 2px;
+  background-color: #e06c5b;
+}
+
+.variousHeading {
+  font-weight: 600;
+}
+
+.variousProducts {
+  text-align: center;
+  font-weight: 500;
+}
+
+.separator {
+  color: #e06c5b;
+  font-weight: 600;
+}
