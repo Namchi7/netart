@@ -38,7 +38,7 @@
 
 @media screen and (width < 630px) {
   .container {
-    height: max-content;
+    height: fit-content;
   }
   .subContainer {
     flex-direction: column;
